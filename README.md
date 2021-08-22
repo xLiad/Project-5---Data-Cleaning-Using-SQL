@@ -8,7 +8,7 @@
 * The dataset is called Nashville Housing.
 The dataset contains data about Real Estate in the city of Nashville, Tennessee.
 
-# Our tasks for cleaning this dataset:
+# The tasks for cleaning this dataset:
 
 1) Changing the date format of the "SaleDate" column as the hours in the default date format are not needed. 
 
@@ -22,7 +22,7 @@ The dataset contains data about Real Estate in the city of Nashville, Tennessee.
 
 6) Deleting Unused Columns.
 
-# How the data looks in its raw form:
+# The columns of the dataset in its raw form in the excel file:
 
 # UniqueID 
 2045
