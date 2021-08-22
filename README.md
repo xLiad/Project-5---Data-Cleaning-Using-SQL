@@ -23,7 +23,7 @@ The dataset contains data about Real Estate in the city of Nashville, Tennessee.
 6) Deleting Unused Columns.
 
 # The columns of the dataset in its raw form in the excel file:
-
+* Using the data in the first row as example. 
 # UniqueID 
 2045
 * column used as index, the values are unique.
